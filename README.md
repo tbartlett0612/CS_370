@@ -1,1 +1,9 @@
-# CS_370
+# CS_370 Current/Emerging Trends in CS
+## Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+In Project 2 I had to add code that set up each epoch (episode) for the training. This including guidance on when the agent can make random moves or use the algorithm to predict the best move. It also set up the win and loss states and tracked the progress of the training. Code that was already supplied for me was the libraries needed to run the program, the model structure for the program's neural network, and the controllers for the variables that the model uses and that are used in the episodes and to initiate the Treasure Hunt Game.
+## What do computer scientists do and why does it matter?
+Computer scientists look to create solutions to problems or deficiencies through the use of technology. During this course, I was able to expand on my knowledge and learn about how AI is able to help with this goal. Seeing where this is trending towards, it opens a lot of possibilities for the future to use AI in different professional and working environments.
+## How do I approach a problem as a computer scientist?
+There are several questions that I look at when approaching a problem. First is how can the use of technology solve or improve this issue, will my work benefit others without any biases or ethical concerns, and is there a solution to this issue that may be better than the one I came up with.
+## What are my ethical responsibilities to the end user and the organization?
+My ethical responsibilities to the end user and the organization is that my code, intended or unintended, does not cause harm. For the end user, that means that the code is created in a way that protects their data. For the organization, that means providing high quality programs/systems that protect both their own sensitive data, and the data of those who may use their systems/programs. 
